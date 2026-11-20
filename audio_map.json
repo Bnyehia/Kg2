@@ -1,0 +1,2042 @@
+{
+  "ar:أهلاً يا يونس! عامل إيه يا بطل؟ يلا نذاكر ونلعب سوا!": {
+    "file": "audio/clips/ar1_001.mp3",
+    "source": "ar1",
+    "index": 1,
+    "text": "أهلاً يا يونس! عامل إيه يا بطل؟ يلا نذاكر ونلعب سوا!"
+  },
+  "ar:يلا يا نوشّهْ، جاهز نبدأ المغامرة؟": {
+    "file": "audio/clips/ar1_002.mp3",
+    "source": "ar1",
+    "index": 2,
+    "text": "يلا يا نوشّهْ، جاهز نبدأ المغامرة؟"
+  },
+  "ar:برافو يا يونس!": {
+    "file": "audio/clips/ar1_003.mp3",
+    "source": "ar1",
+    "index": 3,
+    "text": "برافو يا يونس!"
+  },
+  "ar:شاطر يا نوشّهْ!": {
+    "file": "audio/clips/ar1_004.mp3",
+    "source": "ar1",
+    "index": 4,
+    "text": "شاطر يا نوشّهْ!"
+  },
+  "ar:الله ينور عليك يا بطل!": {
+    "file": "audio/clips/ar1_005.mp3",
+    "source": "ar1",
+    "index": 5,
+    "text": "الله ينور عليك يا بطل!"
+  },
+  "ar:إيه الحلاوة دي يا يونس!": {
+    "file": "audio/clips/ar1_006.mp3",
+    "source": "ar1",
+    "index": 6,
+    "text": "إيه الحلاوة دي يا يونس!"
+  },
+  "ar:عاش يا بطل! كمل كده!": {
+    "file": "audio/clips/ar1_007.mp3",
+    "source": "ar1",
+    "index": 7,
+    "text": "عاش يا بطل! كمل كده!"
+  },
+  "ar:مبروك يا نوشّهْ! كسبت نجمة جديدة!": {
+    "file": "audio/clips/ar1_008.mp3",
+    "source": "ar1",
+    "index": 8,
+    "text": "مبروك يا نوشّهْ! كسبت نجمة جديدة!"
+  },
+  "ar:يا سلام! تلات نجوم مرة واحدة!": {
+    "file": "audio/clips/ar1_009.mp3",
+    "source": "ar1",
+    "index": 9,
+    "text": "يا سلام! تلات نجوم مرة واحدة!"
+  },
+  "ar:برافو يا يونس! خلصت المستوى بنجاح!": {
+    "file": "audio/clips/ar1_010.mp3",
+    "source": "ar1",
+    "index": 10,
+    "text": "برافو يا يونس! خلصت المستوى بنجاح!"
+  },
+  "ar:يلا نفتح مستوى جديد!": {
+    "file": "audio/clips/ar1_011.mp3",
+    "source": "ar1",
+    "index": 11,
+    "text": "يلا نفتح مستوى جديد!"
+  },
+  "ar:ولا يهمك يا نوشّهْ، جرب تاني!": {
+    "file": "audio/clips/ar1_012.mp3",
+    "source": "ar1",
+    "index": 12,
+    "text": "ولا يهمك يا نوشّهْ، جرب تاني!"
+  },
+  "ar:فكر براحتك يا يونس، أنا مستنياك!": {
+    "file": "audio/clips/ar1_013.mp3",
+    "source": "ar1",
+    "index": 13,
+    "text": "فكر براحتك يا يونس، أنا مستنياك!"
+  },
+  "ar:قربت يا بطل! حاول مرة كمان!": {
+    "file": "audio/clips/ar1_014.mp3",
+    "source": "ar1",
+    "index": 14,
+    "text": "قربت يا بطل! حاول مرة كمان!"
+  },
+  "ar:تعالى نفكر فيها سوا يا نوشّهْ!": {
+    "file": "audio/clips/ar1_015.mp3",
+    "source": "ar1",
+    "index": 15,
+    "text": "تعالى نفكر فيها سوا يا نوشّهْ!"
+  },
+  "ar:شاطر يا يونس! أشوفك في مغامرة جديدة!": {
+    "file": "audio/clips/ar1_016.mp3",
+    "source": "ar1",
+    "index": 16,
+    "text": "شاطر يا يونس! أشوفك في مغامرة جديدة!"
+  },
+  "ar:اختار الإجابة الصح يا يونس!": {
+    "file": "audio/clips/ar1_017.mp3",
+    "source": "ar1",
+    "index": 17,
+    "text": "اختار الإجابة الصح يا يونس!"
+  },
+  "ar:اسمع كويس، وبعدين اختار!": {
+    "file": "audio/clips/ar1_018.mp3",
+    "source": "ar1",
+    "index": 18,
+    "text": "اسمع كويس، وبعدين اختار!"
+  },
+  "ar:دوس على الإجابة الصح!": {
+    "file": "audio/clips/ar1_019.mp3",
+    "source": "ar1",
+    "index": 19,
+    "text": "دوس على الإجابة الصح!"
+  },
+  "ar:وصل كل صورة بالحاجة اللي شبهها!": {
+    "file": "audio/clips/ar1_020.mp3",
+    "source": "ar1",
+    "index": 20,
+    "text": "وصل كل صورة بالحاجة اللي شبهها!"
+  },
+  "ar:امسك الصورة وحطها في مكانها الصح!": {
+    "file": "audio/clips/ar1_021.mp3",
+    "source": "ar1",
+    "index": 21,
+    "text": "امسك الصورة وحطها في مكانها الصح!"
+  },
+  "ar:يلا نعد مع بعض يا نوشّهْ!": {
+    "file": "audio/clips/ar1_022.mp3",
+    "source": "ar1",
+    "index": 22,
+    "text": "يلا نعد مع بعض يا نوشّهْ!"
+  },
+  "ar:تعالى نجمع الأرقام دي سوا!": {
+    "file": "audio/clips/ar1_023.mp3",
+    "source": "ar1",
+    "index": 23,
+    "text": "تعالى نجمع الأرقام دي سوا!"
+  },
+  "ar:يلا نشوف فاضل كام!": {
+    "file": "audio/clips/ar1_024.mp3",
+    "source": "ar1",
+    "index": 24,
+    "text": "يلا نشوف فاضل كام!"
+  },
+  "ar:دور على الحرف الصح يا يونس!": {
+    "file": "audio/clips/ar1_025.mp3",
+    "source": "ar1",
+    "index": 25,
+    "text": "دور على الحرف الصح يا يونس!"
+  },
+  "ar:رتب الحروف علشان نكوّن الكلمة!": {
+    "file": "audio/clips/ar1_026.mp3",
+    "source": "ar1",
+    "index": 26,
+    "text": "رتب الحروف علشان نكوّن الكلمة!"
+  },
+  "ar:يلا نتعلم إنجليزي يا بطل!": {
+    "file": "audio/clips/ar1_027.mp3",
+    "source": "ar1",
+    "index": 27,
+    "text": "يلا نتعلم إنجليزي يا بطل!"
+  },
+  "ar:بص كويس، واختار الشكل المطلوب!": {
+    "file": "audio/clips/ar1_028.mp3",
+    "source": "ar1",
+    "index": 28,
+    "text": "بص كويس، واختار الشكل المطلوب!"
+  },
+  "ar:اختار اللون الصح يا نوشّهْ!": {
+    "file": "audio/clips/ar1_029.mp3",
+    "source": "ar1",
+    "index": 29,
+    "text": "اختار اللون الصح يا نوشّهْ!"
+  },
+  "ar:افتكر مكان الصور، وحاول تلاقي كل صورتين شبه بعض!": {
+    "file": "audio/clips/ar1_030.mp3",
+    "source": "ar1",
+    "index": 30,
+    "text": "افتكر مكان الصور، وحاول تلاقي كل صورتين شبه بعض!"
+  },
+  "ar:بص على الترتيب، وقولي إيه اللي جاي بعد كده!": {
+    "file": "audio/clips/ar1_031.mp3",
+    "source": "ar1",
+    "index": 31,
+    "text": "بص على الترتيب، وقولي إيه اللي جاي بعد كده!"
+  },
+  "ar:ركز معايا يا يونس، وخد وقتك!": {
+    "file": "audio/clips/ar1_032.mp3",
+    "source": "ar1",
+    "index": 32,
+    "text": "ركز معايا يا يونس، وخد وقتك!"
+  },
+  "ar:امشي بصباعك على الخط، وارسم معايا!": {
+    "file": "audio/clips/ar1_033.mp3",
+    "source": "ar1",
+    "index": 33,
+    "text": "امشي بصباعك على الخط، وارسم معايا!"
+  },
+  "ar:حط كل حاجة في المجموعة المناسبة ليها!": {
+    "file": "audio/clips/ar1_034.mp3",
+    "source": "ar1",
+    "index": 34,
+    "text": "حط كل حاجة في المجموعة المناسبة ليها!"
+  },
+  "ar:رتب الصور من الأول للآخر!": {
+    "file": "audio/clips/ar1_035.mp3",
+    "source": "ar1",
+    "index": 35,
+    "text": "رتب الصور من الأول للآخر!"
+  },
+  "ar:يلا نركب الصورة حتة حتة!": {
+    "file": "audio/clips/ar1_036.mp3",
+    "source": "ar1",
+    "index": 36,
+    "text": "يلا نركب الصورة حتة حتة!"
+  },
+  "ar:أهلاً بيك في لعبة ذاكر يا يونس!": {
+    "file": "audio/clips/ar1_037.mp3",
+    "source": "ar1",
+    "index": 37,
+    "text": "أهلاً بيك في لعبة ذاكر يا يونس!"
+  },
+  "ar:تحب نلعب إيه النهارده يا بطل؟": {
+    "file": "audio/clips/ar1_038.mp3",
+    "source": "ar1",
+    "index": 38,
+    "text": "تحب نلعب إيه النهارده يا بطل؟"
+  },
+  "ar:اختار المستوى اللي عايز تلعبه!": {
+    "file": "audio/clips/ar1_039.mp3",
+    "source": "ar1",
+    "index": 39,
+    "text": "اختار المستوى اللي عايز تلعبه!"
+  },
+  "ar:يلا على السؤال اللي بعده!": {
+    "file": "audio/clips/ar1_040.mp3",
+    "source": "ar1",
+    "index": 40,
+    "text": "يلا على السؤال اللي بعده!"
+  },
+  "ar:عاش يا يونس! خلصنا لعبة النهارده!": {
+    "file": "audio/clips/ar1_041.mp3",
+    "source": "ar1",
+    "index": 41,
+    "text": "عاش يا يونس! خلصنا لعبة النهارده!"
+  },
+  "ar:المستوى ده لسه مقفول، خلص اللي قبله الأول!": {
+    "file": "audio/clips/ar1_042.mp3",
+    "source": "ar1",
+    "index": 42,
+    "text": "المستوى ده لسه مقفول، خلص اللي قبله الأول!"
+  },
+  "ar:تستاهل مكافأة يا نوشّهْ!": {
+    "file": "audio/clips/ar1_043.mp3",
+    "source": "ar1",
+    "index": 43,
+    "text": "تستاهل مكافأة يا نوشّهْ!"
+  },
+  "ar:بص يا يونس، إنت اتعلمت حاجات كتير أوي!": {
+    "file": "audio/clips/ar1_044.mp3",
+    "source": "ar1",
+    "index": 44,
+    "text": "بص يا يونس، إنت اتعلمت حاجات كتير أوي!"
+  },
+  "ar:إيه رأيك نريح شوية ونرجع نلعب تاني؟": {
+    "file": "audio/clips/ar1_045.mp3",
+    "source": "ar1",
+    "index": 45,
+    "text": "إيه رأيك نريح شوية ونرجع نلعب تاني؟"
+  },
+  "ar:يلا نبدأ مع الحروف العربية!": {
+    "file": "audio/clips/ar1_046.mp3",
+    "source": "ar1",
+    "index": 46,
+    "text": "يلا نبدأ مع الحروف العربية!"
+  },
+  "ar:اسمع صوت الحرف كويس!": {
+    "file": "audio/clips/ar1_047.mp3",
+    "source": "ar1",
+    "index": 47,
+    "text": "اسمع صوت الحرف كويس!"
+  },
+  "ar:ده حرف الألف.": {
+    "file": "audio/clips/ar1_048.mp3",
+    "source": "ar1",
+    "index": 48,
+    "text": "ده حرف الألف."
+  },
+  "ar:ده حرف الباء.": {
+    "file": "audio/clips/ar1_049.mp3",
+    "source": "ar1",
+    "index": 49,
+    "text": "ده حرف الباء."
+  },
+  "ar:ده حرف التاء.": {
+    "file": "audio/clips/ar1_050.mp3",
+    "source": "ar1",
+    "index": 50,
+    "text": "ده حرف التاء."
+  },
+  "ar:ده حرف الثاء.": {
+    "file": "audio/clips/ar1_051.mp3",
+    "source": "ar1",
+    "index": 51,
+    "text": "ده حرف الثاء."
+  },
+  "ar:ده حرف الجيم.": {
+    "file": "audio/clips/ar1_052.mp3",
+    "source": "ar1",
+    "index": 52,
+    "text": "ده حرف الجيم."
+  },
+  "ar:ده حرف الحاء.": {
+    "file": "audio/clips/ar1_053.mp3",
+    "source": "ar1",
+    "index": 53,
+    "text": "ده حرف الحاء."
+  },
+  "ar:ده حرف الخاء.": {
+    "file": "audio/clips/ar1_054.mp3",
+    "source": "ar1",
+    "index": 54,
+    "text": "ده حرف الخاء."
+  },
+  "ar:ده حرف الدال.": {
+    "file": "audio/clips/ar1_055.mp3",
+    "source": "ar1",
+    "index": 55,
+    "text": "ده حرف الدال."
+  },
+  "ar:ده حرف الذال.": {
+    "file": "audio/clips/ar1_056.mp3",
+    "source": "ar1",
+    "index": 56,
+    "text": "ده حرف الذال."
+  },
+  "ar:ده حرف الراء.": {
+    "file": "audio/clips/ar1_057.mp3",
+    "source": "ar1",
+    "index": 57,
+    "text": "ده حرف الراء."
+  },
+  "ar:ده حرف الزاي.": {
+    "file": "audio/clips/ar1_058.mp3",
+    "source": "ar1",
+    "index": 58,
+    "text": "ده حرف الزاي."
+  },
+  "ar:ده حرف السين.": {
+    "file": "audio/clips/ar1_059.mp3",
+    "source": "ar1",
+    "index": 59,
+    "text": "ده حرف السين."
+  },
+  "ar:ده حرف الشين.": {
+    "file": "audio/clips/ar1_060.mp3",
+    "source": "ar1",
+    "index": 60,
+    "text": "ده حرف الشين."
+  },
+  "ar:ده حرف الصاد.": {
+    "file": "audio/clips/ar1_061.mp3",
+    "source": "ar1",
+    "index": 61,
+    "text": "ده حرف الصاد."
+  },
+  "ar:ده حرف الضاد.": {
+    "file": "audio/clips/ar1_062.mp3",
+    "source": "ar1",
+    "index": 62,
+    "text": "ده حرف الضاد."
+  },
+  "ar:ده حرف الطاء.": {
+    "file": "audio/clips/ar1_063.mp3",
+    "source": "ar1",
+    "index": 63,
+    "text": "ده حرف الطاء."
+  },
+  "ar:ده حرف الظاء.": {
+    "file": "audio/clips/ar1_064.mp3",
+    "source": "ar1",
+    "index": 64,
+    "text": "ده حرف الظاء."
+  },
+  "ar:ده حرف العين.": {
+    "file": "audio/clips/ar1_065.mp3",
+    "source": "ar1",
+    "index": 65,
+    "text": "ده حرف العين."
+  },
+  "ar:ده حرف الغين.": {
+    "file": "audio/clips/ar1_066.mp3",
+    "source": "ar1",
+    "index": 66,
+    "text": "ده حرف الغين."
+  },
+  "ar:ده حرف الفاء.": {
+    "file": "audio/clips/ar1_067.mp3",
+    "source": "ar1",
+    "index": 67,
+    "text": "ده حرف الفاء."
+  },
+  "ar:ده حرف القاف.": {
+    "file": "audio/clips/ar1_068.mp3",
+    "source": "ar1",
+    "index": 68,
+    "text": "ده حرف القاف."
+  },
+  "ar:ده حرف الكاف.": {
+    "file": "audio/clips/ar1_069.mp3",
+    "source": "ar1",
+    "index": 69,
+    "text": "ده حرف الكاف."
+  },
+  "ar:ده حرف اللام.": {
+    "file": "audio/clips/ar1_070.mp3",
+    "source": "ar1",
+    "index": 70,
+    "text": "ده حرف اللام."
+  },
+  "ar:ده حرف الميم.": {
+    "file": "audio/clips/ar1_071.mp3",
+    "source": "ar1",
+    "index": 71,
+    "text": "ده حرف الميم."
+  },
+  "ar:ده حرف النون.": {
+    "file": "audio/clips/ar1_072.mp3",
+    "source": "ar1",
+    "index": 72,
+    "text": "ده حرف النون."
+  },
+  "ar:ده حرف الهاء.": {
+    "file": "audio/clips/ar1_073.mp3",
+    "source": "ar1",
+    "index": 73,
+    "text": "ده حرف الهاء."
+  },
+  "ar:ده حرف الواو.": {
+    "file": "audio/clips/ar1_074.mp3",
+    "source": "ar1",
+    "index": 74,
+    "text": "ده حرف الواو."
+  },
+  "ar:ده حرف الياء.": {
+    "file": "audio/clips/ar1_075.mp3",
+    "source": "ar1",
+    "index": 75,
+    "text": "ده حرف الياء."
+  },
+  "ar:فتحة.": {
+    "file": "audio/clips/ar1_076.mp3",
+    "source": "ar1",
+    "index": 76,
+    "text": "فتحة."
+  },
+  "ar:كسرة.": {
+    "file": "audio/clips/ar1_077.mp3",
+    "source": "ar1",
+    "index": 77,
+    "text": "كسرة."
+  },
+  "ar:ضمة.": {
+    "file": "audio/clips/ar1_078.mp3",
+    "source": "ar1",
+    "index": 78,
+    "text": "ضمة."
+  },
+  "ar:سكون.": {
+    "file": "audio/clips/ar1_079.mp3",
+    "source": "ar1",
+    "index": 79,
+    "text": "سكون."
+  },
+  "ar:شدة.": {
+    "file": "audio/clips/ar1_080.mp3",
+    "source": "ar1",
+    "index": 80,
+    "text": "شدة."
+  },
+  "ar:تنوين بالفتح.": {
+    "file": "audio/clips/ar1_081.mp3",
+    "source": "ar1",
+    "index": 81,
+    "text": "تنوين بالفتح."
+  },
+  "ar:تنوين بالكسر.": {
+    "file": "audio/clips/ar1_082.mp3",
+    "source": "ar1",
+    "index": 82,
+    "text": "تنوين بالكسر."
+  },
+  "ar:تنوين بالضم.": {
+    "file": "audio/clips/ar1_083.mp3",
+    "source": "ar1",
+    "index": 83,
+    "text": "تنوين بالضم."
+  },
+  "ar:مد بالألف.": {
+    "file": "audio/clips/ar1_084.mp3",
+    "source": "ar1",
+    "index": 84,
+    "text": "مد بالألف."
+  },
+  "ar:مد بالواو.": {
+    "file": "audio/clips/ar1_085.mp3",
+    "source": "ar1",
+    "index": 85,
+    "text": "مد بالواو."
+  },
+  "ar:مد بالياء.": {
+    "file": "audio/clips/ar1_086.mp3",
+    "source": "ar1",
+    "index": 86,
+    "text": "مد بالياء."
+  },
+  "ar:الحرف ده عليه فتحة.": {
+    "file": "audio/clips/ar1_087.mp3",
+    "source": "ar1",
+    "index": 87,
+    "text": "الحرف ده عليه فتحة."
+  },
+  "ar:الحرف ده عليه كسرة.": {
+    "file": "audio/clips/ar1_088.mp3",
+    "source": "ar1",
+    "index": 88,
+    "text": "الحرف ده عليه كسرة."
+  },
+  "ar:الحرف ده عليه ضمة.": {
+    "file": "audio/clips/ar1_089.mp3",
+    "source": "ar1",
+    "index": 89,
+    "text": "الحرف ده عليه ضمة."
+  },
+  "ar:الحرف ده ساكن.": {
+    "file": "audio/clips/ar1_090.mp3",
+    "source": "ar1",
+    "index": 90,
+    "text": "الحرف ده ساكن."
+  },
+  "ar:الحرف ده مشدد.": {
+    "file": "audio/clips/ar1_091.mp3",
+    "source": "ar1",
+    "index": 91,
+    "text": "الحرف ده مشدد."
+  },
+  "ar:اقرأ المقطع ده يا يونس!": {
+    "file": "audio/clips/ar1_092.mp3",
+    "source": "ar1",
+    "index": 92,
+    "text": "اقرأ المقطع ده يا يونس!"
+  },
+  "ar:يلا نركب الحروف ونقرأ الكلمة!": {
+    "file": "audio/clips/ar1_093.mp3",
+    "source": "ar1",
+    "index": 93,
+    "text": "يلا نركب الحروف ونقرأ الكلمة!"
+  },
+  "ar:اختار الكلمة اللي بتبدأ بنفس الصوت!": {
+    "file": "audio/clips/ar1_094.mp3",
+    "source": "ar1",
+    "index": 94,
+    "text": "اختار الكلمة اللي بتبدأ بنفس الصوت!"
+  },
+  "ar:فين الحرف اللي سمعته؟": {
+    "file": "audio/clips/ar1_095.mp3",
+    "source": "ar1",
+    "index": 95,
+    "text": "فين الحرف اللي سمعته؟"
+  },
+  "ar:يلا نتعلم الحروف الإنجليزي!": {
+    "file": "audio/clips/ar2_001.mp3",
+    "source": "ar2",
+    "index": 96,
+    "text": "يلا نتعلم الحروف الإنجليزي!"
+  },
+  "ar:اسمع اسم الحرف.": {
+    "file": "audio/clips/ar2_002.mp3",
+    "source": "ar2",
+    "index": 97,
+    "text": "اسمع اسم الحرف."
+  },
+  "ar:اسمع صوت الحرف.": {
+    "file": "audio/clips/ar2_003.mp3",
+    "source": "ar2",
+    "index": 98,
+    "text": "اسمع صوت الحرف."
+  },
+  "ar:اختار الحرف الكبير.": {
+    "file": "audio/clips/ar2_004.mp3",
+    "source": "ar2",
+    "index": 99,
+    "text": "اختار الحرف الكبير."
+  },
+  "ar:اختار الحرف الصغير.": {
+    "file": "audio/clips/ar2_005.mp3",
+    "source": "ar2",
+    "index": 100,
+    "text": "اختار الحرف الصغير."
+  },
+  "ar:وصل الحرف الكبير بالحرف الصغير.": {
+    "file": "audio/clips/ar2_006.mp3",
+    "source": "ar2",
+    "index": 101,
+    "text": "وصل الحرف الكبير بالحرف الصغير."
+  },
+  "ar:اختار الصورة اللي بتبدأ بصوت الحرف.": {
+    "file": "audio/clips/ar2_007.mp3",
+    "source": "ar2",
+    "index": 102,
+    "text": "اختار الصورة اللي بتبدأ بصوت الحرف."
+  },
+  "ar:اسمع الكلمة واختار صورتها.": {
+    "file": "audio/clips/ar2_008.mp3",
+    "source": "ar2",
+    "index": 103,
+    "text": "اسمع الكلمة واختار صورتها."
+  },
+  "ar:يلا نكوّن كلمة إنجليزي بسيطة.": {
+    "file": "audio/clips/ar2_009.mp3",
+    "source": "ar2",
+    "index": 104,
+    "text": "يلا نكوّن كلمة إنجليزي بسيطة."
+  },
+  "ar:اسمع الأصوات وركب الكلمة.": {
+    "file": "audio/clips/ar2_010.mp3",
+    "source": "ar2",
+    "index": 105,
+    "text": "اسمع الأصوات وركب الكلمة."
+  },
+  "ar:برافو يا يونس! إنت بتقرأ إنجليزي!": {
+    "file": "audio/clips/ar2_011.mp3",
+    "source": "ar2",
+    "index": 106,
+    "text": "برافو يا يونس! إنت بتقرأ إنجليزي!"
+  },
+  "ar:يلا نلعب لعبة الأرقام!": {
+    "file": "audio/clips/ar2_012.mp3",
+    "source": "ar2",
+    "index": 107,
+    "text": "يلا نلعب لعبة الأرقام!"
+  },
+  "ar:عد الحاجات اللي قدامك.": {
+    "file": "audio/clips/ar2_013.mp3",
+    "source": "ar2",
+    "index": 108,
+    "text": "عد الحاجات اللي قدامك."
+  },
+  "ar:كام واحدة في الصورة؟": {
+    "file": "audio/clips/ar2_014.mp3",
+    "source": "ar2",
+    "index": 109,
+    "text": "كام واحدة في الصورة؟"
+  },
+  "ar:اختار الرقم الصح.": {
+    "file": "audio/clips/ar2_015.mp3",
+    "source": "ar2",
+    "index": 110,
+    "text": "اختار الرقم الصح."
+  },
+  "ar:رتب الأرقام من الصغير للكبير.": {
+    "file": "audio/clips/ar2_016.mp3",
+    "source": "ar2",
+    "index": 111,
+    "text": "رتب الأرقام من الصغير للكبير."
+  },
+  "ar:رتب الأرقام من الكبير للصغير.": {
+    "file": "audio/clips/ar2_017.mp3",
+    "source": "ar2",
+    "index": 112,
+    "text": "رتب الأرقام من الكبير للصغير."
+  },
+  "ar:أنهي رقم أكبر؟": {
+    "file": "audio/clips/ar2_018.mp3",
+    "source": "ar2",
+    "index": 113,
+    "text": "أنهي رقم أكبر؟"
+  },
+  "ar:أنهي رقم أصغر؟": {
+    "file": "audio/clips/ar2_019.mp3",
+    "source": "ar2",
+    "index": 114,
+    "text": "أنهي رقم أصغر؟"
+  },
+  "ar:أنهي رقم ييجي قبل ده؟": {
+    "file": "audio/clips/ar2_020.mp3",
+    "source": "ar2",
+    "index": 115,
+    "text": "أنهي رقم ييجي قبل ده؟"
+  },
+  "ar:أنهي رقم ييجي بعد ده؟": {
+    "file": "audio/clips/ar2_021.mp3",
+    "source": "ar2",
+    "index": 116,
+    "text": "أنهي رقم ييجي بعد ده؟"
+  },
+  "ar:أنهي رقم ناقص؟": {
+    "file": "audio/clips/ar2_022.mp3",
+    "source": "ar2",
+    "index": 117,
+    "text": "أنهي رقم ناقص؟"
+  },
+  "ar:يلا نجمع باستخدام الصور.": {
+    "file": "audio/clips/ar2_023.mp3",
+    "source": "ar2",
+    "index": 118,
+    "text": "يلا نجمع باستخدام الصور."
+  },
+  "ar:يلا نطرح باستخدام الصور.": {
+    "file": "audio/clips/ar2_024.mp3",
+    "source": "ar2",
+    "index": 119,
+    "text": "يلا نطرح باستخدام الصور."
+  },
+  "ar:كام زائد كام يساوي كام؟": {
+    "file": "audio/clips/ar2_025.mp3",
+    "source": "ar2",
+    "index": 120,
+    "text": "كام زائد كام يساوي كام؟"
+  },
+  "ar:كام ناقص كام يساوي كام؟": {
+    "file": "audio/clips/ar2_026.mp3",
+    "source": "ar2",
+    "index": 121,
+    "text": "كام ناقص كام يساوي كام؟"
+  },
+  "ar:اختار علامة أكبر من أو أصغر من أو يساوي.": {
+    "file": "audio/clips/ar2_027.mp3",
+    "source": "ar2",
+    "index": 122,
+    "text": "اختار علامة أكبر من أو أصغر من أو يساوي."
+  },
+  "ar:يلا نكوّن العدد عشرة.": {
+    "file": "audio/clips/ar2_028.mp3",
+    "source": "ar2",
+    "index": 123,
+    "text": "يلا نكوّن العدد عشرة."
+  },
+  "ar:اختار العدد الزوجي.": {
+    "file": "audio/clips/ar2_029.mp3",
+    "source": "ar2",
+    "index": 124,
+    "text": "اختار العدد الزوجي."
+  },
+  "ar:اختار العدد الفردي.": {
+    "file": "audio/clips/ar2_030.mp3",
+    "source": "ar2",
+    "index": 125,
+    "text": "اختار العدد الفردي."
+  },
+  "ar:بص على الساعة واختار الوقت الصح.": {
+    "file": "audio/clips/ar2_031.mp3",
+    "source": "ar2",
+    "index": 126,
+    "text": "بص على الساعة واختار الوقت الصح."
+  },
+  "ar:اختار العملة الصح.": {
+    "file": "audio/clips/ar2_032.mp3",
+    "source": "ar2",
+    "index": 127,
+    "text": "اختار العملة الصح."
+  },
+  "ar:يلا نتعلم الأشكال والألوان!": {
+    "file": "audio/clips/ar2_033.mp3",
+    "source": "ar2",
+    "index": 128,
+    "text": "يلا نتعلم الأشكال والألوان!"
+  },
+  "ar:فين الدائرة؟": {
+    "file": "audio/clips/ar2_034.mp3",
+    "source": "ar2",
+    "index": 129,
+    "text": "فين الدائرة؟"
+  },
+  "ar:فين المربع؟": {
+    "file": "audio/clips/ar2_035.mp3",
+    "source": "ar2",
+    "index": 130,
+    "text": "فين المربع؟"
+  },
+  "ar:فين المثلث؟": {
+    "file": "audio/clips/ar2_036.mp3",
+    "source": "ar2",
+    "index": 131,
+    "text": "فين المثلث؟"
+  },
+  "ar:فين المستطيل؟": {
+    "file": "audio/clips/ar2_037.mp3",
+    "source": "ar2",
+    "index": 132,
+    "text": "فين المستطيل؟"
+  },
+  "ar:فين الشكل اللي شبه ده؟": {
+    "file": "audio/clips/ar2_038.mp3",
+    "source": "ar2",
+    "index": 133,
+    "text": "فين الشكل اللي شبه ده؟"
+  },
+  "ar:اختار اللون الأحمر.": {
+    "file": "audio/clips/ar2_039.mp3",
+    "source": "ar2",
+    "index": 134,
+    "text": "اختار اللون الأحمر."
+  },
+  "ar:اختار اللون الأزرق.": {
+    "file": "audio/clips/ar2_040.mp3",
+    "source": "ar2",
+    "index": 135,
+    "text": "اختار اللون الأزرق."
+  },
+  "ar:اختار اللون الأصفر.": {
+    "file": "audio/clips/ar2_041.mp3",
+    "source": "ar2",
+    "index": 136,
+    "text": "اختار اللون الأصفر."
+  },
+  "ar:اختار اللون الأخضر.": {
+    "file": "audio/clips/ar2_042.mp3",
+    "source": "ar2",
+    "index": 137,
+    "text": "اختار اللون الأخضر."
+  },
+  "ar:اختار اللون البرتقالي.": {
+    "file": "audio/clips/ar2_043.mp3",
+    "source": "ar2",
+    "index": 138,
+    "text": "اختار اللون البرتقالي."
+  },
+  "ar:اختار اللون البنفسجي.": {
+    "file": "audio/clips/ar2_044.mp3",
+    "source": "ar2",
+    "index": 139,
+    "text": "اختار اللون البنفسجي."
+  },
+  "ar:اختار اللون الأسود.": {
+    "file": "audio/clips/ar2_045.mp3",
+    "source": "ar2",
+    "index": 140,
+    "text": "اختار اللون الأسود."
+  },
+  "ar:اختار اللون الأبيض.": {
+    "file": "audio/clips/ar2_046.mp3",
+    "source": "ar2",
+    "index": 141,
+    "text": "اختار اللون الأبيض."
+  },
+  "ar:اختار الحاجة الكبيرة.": {
+    "file": "audio/clips/ar2_047.mp3",
+    "source": "ar2",
+    "index": 142,
+    "text": "اختار الحاجة الكبيرة."
+  },
+  "ar:اختار الحاجة الصغيرة.": {
+    "file": "audio/clips/ar2_048.mp3",
+    "source": "ar2",
+    "index": 143,
+    "text": "اختار الحاجة الصغيرة."
+  },
+  "ar:اختار الحاجة الطويلة.": {
+    "file": "audio/clips/ar2_049.mp3",
+    "source": "ar2",
+    "index": 144,
+    "text": "اختار الحاجة الطويلة."
+  },
+  "ar:اختار الحاجة القصيرة.": {
+    "file": "audio/clips/ar2_050.mp3",
+    "source": "ar2",
+    "index": 145,
+    "text": "اختار الحاجة القصيرة."
+  },
+  "ar:اختار الحاجة اللي فوق.": {
+    "file": "audio/clips/ar2_051.mp3",
+    "source": "ar2",
+    "index": 146,
+    "text": "اختار الحاجة اللي فوق."
+  },
+  "ar:اختار الحاجة اللي تحت.": {
+    "file": "audio/clips/ar2_052.mp3",
+    "source": "ar2",
+    "index": 147,
+    "text": "اختار الحاجة اللي تحت."
+  },
+  "ar:اختار الحاجة اللي على اليمين.": {
+    "file": "audio/clips/ar2_053.mp3",
+    "source": "ar2",
+    "index": 148,
+    "text": "اختار الحاجة اللي على اليمين."
+  },
+  "ar:اختار الحاجة اللي على الشمال.": {
+    "file": "audio/clips/ar2_054.mp3",
+    "source": "ar2",
+    "index": 149,
+    "text": "اختار الحاجة اللي على الشمال."
+  },
+  "ar:يلا نشغل مخنا يا نوشّهْ!": {
+    "file": "audio/clips/ar2_055.mp3",
+    "source": "ar2",
+    "index": 150,
+    "text": "يلا نشغل مخنا يا نوشّهْ!"
+  },
+  "ar:ركز في الصور كويس.": {
+    "file": "audio/clips/ar2_056.mp3",
+    "source": "ar2",
+    "index": 151,
+    "text": "ركز في الصور كويس."
+  },
+  "ar:افتكر مكان الصورة.": {
+    "file": "audio/clips/ar2_057.mp3",
+    "source": "ar2",
+    "index": 152,
+    "text": "افتكر مكان الصورة."
+  },
+  "ar:دور على الصورة المختلفة.": {
+    "file": "audio/clips/ar2_058.mp3",
+    "source": "ar2",
+    "index": 153,
+    "text": "دور على الصورة المختلفة."
+  },
+  "ar:اختار الحاجة اللي مش شبه الباقي.": {
+    "file": "audio/clips/ar2_059.mp3",
+    "source": "ar2",
+    "index": 154,
+    "text": "اختار الحاجة اللي مش شبه الباقي."
+  },
+  "ar:إيه اللي ناقص في الصورة؟": {
+    "file": "audio/clips/ar2_060.mp3",
+    "source": "ar2",
+    "index": 155,
+    "text": "إيه اللي ناقص في الصورة؟"
+  },
+  "ar:كمل النمط.": {
+    "file": "audio/clips/ar2_061.mp3",
+    "source": "ar2",
+    "index": 156,
+    "text": "كمل النمط."
+  },
+  "ar:رتب الأحداث بالترتيب الصح.": {
+    "file": "audio/clips/ar2_062.mp3",
+    "source": "ar2",
+    "index": 157,
+    "text": "رتب الأحداث بالترتيب الصح."
+  },
+  "ar:اختار الطريق اللي يوصلنا للهدف.": {
+    "file": "audio/clips/ar2_063.mp3",
+    "source": "ar2",
+    "index": 158,
+    "text": "اختار الطريق اللي يوصلنا للهدف."
+  },
+  "ar:بص كويس قبل ما تدوس.": {
+    "file": "audio/clips/ar2_064.mp3",
+    "source": "ar2",
+    "index": 159,
+    "text": "بص كويس قبل ما تدوس."
+  },
+  "ar:استنى لما أقولك ابدأ.": {
+    "file": "audio/clips/ar2_065.mp3",
+    "source": "ar2",
+    "index": 160,
+    "text": "استنى لما أقولك ابدأ."
+  },
+  "ar:جاهز؟ واحد، اتنين، تلاتة، ابدأ!": {
+    "file": "audio/clips/ar2_066.mp3",
+    "source": "ar2",
+    "index": 161,
+    "text": "جاهز؟ واحد، اتنين، تلاتة، ابدأ!"
+  },
+  "ar:خلص الوقت يا بطل!": {
+    "file": "audio/clips/ar2_067.mp3",
+    "source": "ar2",
+    "index": 162,
+    "text": "خلص الوقت يا بطل!"
+  },
+  "ar:ممتاز! إنت مركز جدًا!": {
+    "file": "audio/clips/ar2_068.mp3",
+    "source": "ar2",
+    "index": 163,
+    "text": "ممتاز! إنت مركز جدًا!"
+  },
+  "ar:يلا نحل لغز جديد!": {
+    "file": "audio/clips/ar2_069.mp3",
+    "source": "ar2",
+    "index": 164,
+    "text": "يلا نحل لغز جديد!"
+  },
+  "ar:أنا فخورة بيك يا يونس!": {
+    "file": "audio/clips/ar2_070.mp3",
+    "source": "ar2",
+    "index": 165,
+    "text": "أنا فخورة بيك يا يونس!"
+  },
+  "ar:إنت بتتحسن كل يوم يا نوشّهْ!": {
+    "file": "audio/clips/ar2_071.mp3",
+    "source": "ar2",
+    "index": 166,
+    "text": "إنت بتتحسن كل يوم يا نوشّهْ!"
+  },
+  "ar:المهم نحاول ونتعلم.": {
+    "file": "audio/clips/ar2_072.mp3",
+    "source": "ar2",
+    "index": 167,
+    "text": "المهم نحاول ونتعلم."
+  },
+  "ar:كل غلطة بتعلمنا حاجة جديدة.": {
+    "file": "audio/clips/ar2_073.mp3",
+    "source": "ar2",
+    "index": 168,
+    "text": "كل غلطة بتعلمنا حاجة جديدة."
+  },
+  "ar:خد وقتك، مفيش استعجال.": {
+    "file": "audio/clips/ar2_074.mp3",
+    "source": "ar2",
+    "index": 169,
+    "text": "خد وقتك، مفيش استعجال."
+  },
+  "ar:برافو يا يونس! إنت نجم المذاكرة!": {
+    "file": "audio/clips/ar2_075.mp3",
+    "source": "ar2",
+    "index": 170,
+    "text": "برافو يا يونس! إنت نجم المذاكرة!"
+  },
+  "en:hello, younes! are you ready to learn english?": {
+    "file": "audio/clips/en_001.mp3",
+    "source": "en",
+    "index": 1,
+    "text": "Hello, Younes! Are you ready to learn English?"
+  },
+  "en:let's play and learn together!": {
+    "file": "audio/clips/en_002.mp3",
+    "source": "en",
+    "index": 2,
+    "text": "Let's play and learn together!"
+  },
+  "en:well done, younes!": {
+    "file": "audio/clips/en_003.mp3",
+    "source": "en",
+    "index": 3,
+    "text": "Well done, Younes!"
+  },
+  "en:brilliant work!": {
+    "file": "audio/clips/en_004.mp3",
+    "source": "en",
+    "index": 4,
+    "text": "Brilliant work!"
+  },
+  "en:take your time. you can do it!": {
+    "file": "audio/clips/en_005.mp3",
+    "source": "en",
+    "index": 5,
+    "text": "Take your time. You can do it!"
+  },
+  "en:that's okay. let's try again.": {
+    "file": "audio/clips/en_006.mp3",
+    "source": "en",
+    "index": 6,
+    "text": "That's okay. Let's try again."
+  },
+  "en:you earned a star!": {
+    "file": "audio/clips/en_007.mp3",
+    "source": "en",
+    "index": 7,
+    "text": "You earned a star!"
+  },
+  "en:let's go to the next level!": {
+    "file": "audio/clips/en_008.mp3",
+    "source": "en",
+    "index": 8,
+    "text": "Let's go to the next level!"
+  },
+  "en:listen carefully.": {
+    "file": "audio/clips/en_009.mp3",
+    "source": "en",
+    "index": 9,
+    "text": "Listen carefully."
+  },
+  "en:choose the correct answer.": {
+    "file": "audio/clips/en_010.mp3",
+    "source": "en",
+    "index": 10,
+    "text": "Choose the correct answer."
+  },
+  "en:tap the picture.": {
+    "file": "audio/clips/en_011.mp3",
+    "source": "en",
+    "index": 11,
+    "text": "Tap the picture."
+  },
+  "en:say it with me.": {
+    "file": "audio/clips/en_012.mp3",
+    "source": "en",
+    "index": 12,
+    "text": "Say it with me."
+  },
+  "en:great reading!": {
+    "file": "audio/clips/en_013.mp3",
+    "source": "en",
+    "index": 13,
+    "text": "Great reading!"
+  },
+  "en:a.": {
+    "file": "audio/clips/en_014.mp3",
+    "source": "en",
+    "index": 14,
+    "text": "A."
+  },
+  "en:b.": {
+    "file": "audio/clips/en_015.mp3",
+    "source": "en",
+    "index": 15,
+    "text": "B."
+  },
+  "en:c.": {
+    "file": "audio/clips/en_016.mp3",
+    "source": "en",
+    "index": 16,
+    "text": "C."
+  },
+  "en:d.": {
+    "file": "audio/clips/en_017.mp3",
+    "source": "en",
+    "index": 17,
+    "text": "D."
+  },
+  "en:e.": {
+    "file": "audio/clips/en_018.mp3",
+    "source": "en",
+    "index": 18,
+    "text": "E."
+  },
+  "en:f.": {
+    "file": "audio/clips/en_019.mp3",
+    "source": "en",
+    "index": 19,
+    "text": "F."
+  },
+  "en:g.": {
+    "file": "audio/clips/en_020.mp3",
+    "source": "en",
+    "index": 20,
+    "text": "G."
+  },
+  "en:h.": {
+    "file": "audio/clips/en_021.mp3",
+    "source": "en",
+    "index": 21,
+    "text": "H."
+  },
+  "en:i.": {
+    "file": "audio/clips/en_022.mp3",
+    "source": "en",
+    "index": 22,
+    "text": "I."
+  },
+  "en:j.": {
+    "file": "audio/clips/en_023.mp3",
+    "source": "en",
+    "index": 23,
+    "text": "J."
+  },
+  "en:k.": {
+    "file": "audio/clips/en_024.mp3",
+    "source": "en",
+    "index": 24,
+    "text": "K."
+  },
+  "en:l.": {
+    "file": "audio/clips/en_025.mp3",
+    "source": "en",
+    "index": 25,
+    "text": "L."
+  },
+  "en:m.": {
+    "file": "audio/clips/en_026.mp3",
+    "source": "en",
+    "index": 26,
+    "text": "M."
+  },
+  "en:n.": {
+    "file": "audio/clips/en_027.mp3",
+    "source": "en",
+    "index": 27,
+    "text": "N."
+  },
+  "en:o.": {
+    "file": "audio/clips/en_028.mp3",
+    "source": "en",
+    "index": 28,
+    "text": "O."
+  },
+  "en:p.": {
+    "file": "audio/clips/en_029.mp3",
+    "source": "en",
+    "index": 29,
+    "text": "P."
+  },
+  "en:q.": {
+    "file": "audio/clips/en_030.mp3",
+    "source": "en",
+    "index": 30,
+    "text": "Q."
+  },
+  "en:r.": {
+    "file": "audio/clips/en_031.mp3",
+    "source": "en",
+    "index": 31,
+    "text": "R."
+  },
+  "en:s.": {
+    "file": "audio/clips/en_032.mp3",
+    "source": "en",
+    "index": 32,
+    "text": "S."
+  },
+  "en:t.": {
+    "file": "audio/clips/en_033.mp3",
+    "source": "en",
+    "index": 33,
+    "text": "T."
+  },
+  "en:u.": {
+    "file": "audio/clips/en_034.mp3",
+    "source": "en",
+    "index": 34,
+    "text": "U."
+  },
+  "en:v.": {
+    "file": "audio/clips/en_035.mp3",
+    "source": "en",
+    "index": 35,
+    "text": "V."
+  },
+  "en:w.": {
+    "file": "audio/clips/en_036.mp3",
+    "source": "en",
+    "index": 36,
+    "text": "W."
+  },
+  "en:x.": {
+    "file": "audio/clips/en_037.mp3",
+    "source": "en",
+    "index": 37,
+    "text": "X."
+  },
+  "en:y.": {
+    "file": "audio/clips/en_038.mp3",
+    "source": "en",
+    "index": 38,
+    "text": "Y."
+  },
+  "en:z.": {
+    "file": "audio/clips/en_039.mp3",
+    "source": "en",
+    "index": 39,
+    "text": "Z."
+  },
+  "en:listen to the sound.": {
+    "file": "audio/clips/en_040.mp3",
+    "source": "en",
+    "index": 40,
+    "text": "Listen to the sound."
+  },
+  "en:find the letter that makes this sound.": {
+    "file": "audio/clips/en_041.mp3",
+    "source": "en",
+    "index": 41,
+    "text": "Find the letter that makes this sound."
+  },
+  "en:s, as in sun.": {
+    "file": "audio/clips/en_042.mp3",
+    "source": "en",
+    "index": 42,
+    "text": "S, as in sun."
+  },
+  "en:a, as in apple.": {
+    "file": "audio/clips/en_043.mp3",
+    "source": "en",
+    "index": 43,
+    "text": "A, as in apple."
+  },
+  "en:t, as in tap.": {
+    "file": "audio/clips/en_044.mp3",
+    "source": "en",
+    "index": 44,
+    "text": "T, as in tap."
+  },
+  "en:p, as in pin.": {
+    "file": "audio/clips/en_045.mp3",
+    "source": "en",
+    "index": 45,
+    "text": "P, as in pin."
+  },
+  "en:i, as in insect.": {
+    "file": "audio/clips/en_046.mp3",
+    "source": "en",
+    "index": 46,
+    "text": "I, as in insect."
+  },
+  "en:n, as in net.": {
+    "file": "audio/clips/en_047.mp3",
+    "source": "en",
+    "index": 47,
+    "text": "N, as in net."
+  },
+  "en:m, as in mat.": {
+    "file": "audio/clips/en_048.mp3",
+    "source": "en",
+    "index": 48,
+    "text": "M, as in mat."
+  },
+  "en:d, as in dog.": {
+    "file": "audio/clips/en_049.mp3",
+    "source": "en",
+    "index": 49,
+    "text": "D, as in dog."
+  },
+  "en:g, as in goat.": {
+    "file": "audio/clips/en_050.mp3",
+    "source": "en",
+    "index": 50,
+    "text": "G, as in goat."
+  },
+  "en:o, as in octopus.": {
+    "file": "audio/clips/en_051.mp3",
+    "source": "en",
+    "index": 51,
+    "text": "O, as in octopus."
+  },
+  "en:c, as in cat.": {
+    "file": "audio/clips/en_052.mp3",
+    "source": "en",
+    "index": 52,
+    "text": "C, as in cat."
+  },
+  "en:k, as in kite.": {
+    "file": "audio/clips/en_053.mp3",
+    "source": "en",
+    "index": 53,
+    "text": "K, as in kite."
+  },
+  "en:e, as in egg.": {
+    "file": "audio/clips/en_054.mp3",
+    "source": "en",
+    "index": 54,
+    "text": "E, as in egg."
+  },
+  "en:u, as in umbrella.": {
+    "file": "audio/clips/en_055.mp3",
+    "source": "en",
+    "index": 55,
+    "text": "U, as in umbrella."
+  },
+  "en:r, as in red.": {
+    "file": "audio/clips/en_056.mp3",
+    "source": "en",
+    "index": 56,
+    "text": "R, as in red."
+  },
+  "en:h, as in hat.": {
+    "file": "audio/clips/en_057.mp3",
+    "source": "en",
+    "index": 57,
+    "text": "H, as in hat."
+  },
+  "en:b, as in bat.": {
+    "file": "audio/clips/en_058.mp3",
+    "source": "en",
+    "index": 58,
+    "text": "B, as in bat."
+  },
+  "en:f, as in fish.": {
+    "file": "audio/clips/en_059.mp3",
+    "source": "en",
+    "index": 59,
+    "text": "F, as in fish."
+  },
+  "en:l, as in leg.": {
+    "file": "audio/clips/en_060.mp3",
+    "source": "en",
+    "index": 60,
+    "text": "L, as in leg."
+  },
+  "en:j, as in jam.": {
+    "file": "audio/clips/en_061.mp3",
+    "source": "en",
+    "index": 61,
+    "text": "J, as in jam."
+  },
+  "en:v, as in van.": {
+    "file": "audio/clips/en_062.mp3",
+    "source": "en",
+    "index": 62,
+    "text": "V, as in van."
+  },
+  "en:w, as in wet.": {
+    "file": "audio/clips/en_063.mp3",
+    "source": "en",
+    "index": 63,
+    "text": "W, as in wet."
+  },
+  "en:x, as in box.": {
+    "file": "audio/clips/en_064.mp3",
+    "source": "en",
+    "index": 64,
+    "text": "X, as in box."
+  },
+  "en:y, as in yes.": {
+    "file": "audio/clips/en_065.mp3",
+    "source": "en",
+    "index": 65,
+    "text": "Y, as in yes."
+  },
+  "en:z, as in zip.": {
+    "file": "audio/clips/en_066.mp3",
+    "source": "en",
+    "index": 66,
+    "text": "Z, as in zip."
+  },
+  "en:q, as in queen.": {
+    "file": "audio/clips/en_067.mp3",
+    "source": "en",
+    "index": 67,
+    "text": "Q, as in queen."
+  },
+  "en:let's blend the sounds.": {
+    "file": "audio/clips/en_068.mp3",
+    "source": "en",
+    "index": 68,
+    "text": "Let's blend the sounds."
+  },
+  "en:cat.": {
+    "file": "audio/clips/en_140.mp3",
+    "source": "en",
+    "index": 140,
+    "text": "Cat."
+  },
+  "en:bat.": {
+    "file": "audio/clips/en_070.mp3",
+    "source": "en",
+    "index": 70,
+    "text": "Bat."
+  },
+  "en:mat.": {
+    "file": "audio/clips/en_071.mp3",
+    "source": "en",
+    "index": 71,
+    "text": "Mat."
+  },
+  "en:sat.": {
+    "file": "audio/clips/en_072.mp3",
+    "source": "en",
+    "index": 72,
+    "text": "Sat."
+  },
+  "en:tap.": {
+    "file": "audio/clips/en_073.mp3",
+    "source": "en",
+    "index": 73,
+    "text": "Tap."
+  },
+  "en:map.": {
+    "file": "audio/clips/en_074.mp3",
+    "source": "en",
+    "index": 74,
+    "text": "Map."
+  },
+  "en:pin.": {
+    "file": "audio/clips/en_075.mp3",
+    "source": "en",
+    "index": 75,
+    "text": "Pin."
+  },
+  "en:tin.": {
+    "file": "audio/clips/en_076.mp3",
+    "source": "en",
+    "index": 76,
+    "text": "Tin."
+  },
+  "en:sit.": {
+    "file": "audio/clips/en_077.mp3",
+    "source": "en",
+    "index": 77,
+    "text": "Sit."
+  },
+  "en:fin.": {
+    "file": "audio/clips/en_078.mp3",
+    "source": "en",
+    "index": 78,
+    "text": "Fin."
+  },
+  "en:dog.": {
+    "file": "audio/clips/en_141.mp3",
+    "source": "en",
+    "index": 141,
+    "text": "Dog."
+  },
+  "en:log.": {
+    "file": "audio/clips/en_080.mp3",
+    "source": "en",
+    "index": 80,
+    "text": "Log."
+  },
+  "en:hot.": {
+    "file": "audio/clips/en_081.mp3",
+    "source": "en",
+    "index": 81,
+    "text": "Hot."
+  },
+  "en:pot.": {
+    "file": "audio/clips/en_082.mp3",
+    "source": "en",
+    "index": 82,
+    "text": "Pot."
+  },
+  "en:sun.": {
+    "file": "audio/clips/en_083.mp3",
+    "source": "en",
+    "index": 83,
+    "text": "Sun."
+  },
+  "en:run.": {
+    "file": "audio/clips/en_084.mp3",
+    "source": "en",
+    "index": 84,
+    "text": "Run."
+  },
+  "en:cup.": {
+    "file": "audio/clips/en_085.mp3",
+    "source": "en",
+    "index": 85,
+    "text": "Cup."
+  },
+  "en:bus.": {
+    "file": "audio/clips/en_086.mp3",
+    "source": "en",
+    "index": 86,
+    "text": "Bus."
+  },
+  "en:bed.": {
+    "file": "audio/clips/en_087.mp3",
+    "source": "en",
+    "index": 87,
+    "text": "Bed."
+  },
+  "en:hen.": {
+    "file": "audio/clips/en_088.mp3",
+    "source": "en",
+    "index": 88,
+    "text": "Hen."
+  },
+  "en:pen.": {
+    "file": "audio/clips/en_147.mp3",
+    "source": "en",
+    "index": 147,
+    "text": "Pen."
+  },
+  "en:red.": {
+    "file": "audio/clips/en_116.mp3",
+    "source": "en",
+    "index": 116,
+    "text": "Red."
+  },
+  "en:big.": {
+    "file": "audio/clips/en_091.mp3",
+    "source": "en",
+    "index": 91,
+    "text": "Big."
+  },
+  "en:pig.": {
+    "file": "audio/clips/en_092.mp3",
+    "source": "en",
+    "index": 92,
+    "text": "Pig."
+  },
+  "en:zero.": {
+    "file": "audio/clips/en_093.mp3",
+    "source": "en",
+    "index": 93,
+    "text": "Zero."
+  },
+  "en:one.": {
+    "file": "audio/clips/en_094.mp3",
+    "source": "en",
+    "index": 94,
+    "text": "One."
+  },
+  "en:two.": {
+    "file": "audio/clips/en_095.mp3",
+    "source": "en",
+    "index": 95,
+    "text": "Two."
+  },
+  "en:three.": {
+    "file": "audio/clips/en_096.mp3",
+    "source": "en",
+    "index": 96,
+    "text": "Three."
+  },
+  "en:four.": {
+    "file": "audio/clips/en_097.mp3",
+    "source": "en",
+    "index": 97,
+    "text": "Four."
+  },
+  "en:five.": {
+    "file": "audio/clips/en_098.mp3",
+    "source": "en",
+    "index": 98,
+    "text": "Five."
+  },
+  "en:six.": {
+    "file": "audio/clips/en_099.mp3",
+    "source": "en",
+    "index": 99,
+    "text": "Six."
+  },
+  "en:seven.": {
+    "file": "audio/clips/en_100.mp3",
+    "source": "en",
+    "index": 100,
+    "text": "Seven."
+  },
+  "en:eight.": {
+    "file": "audio/clips/en_101.mp3",
+    "source": "en",
+    "index": 101,
+    "text": "Eight."
+  },
+  "en:nine.": {
+    "file": "audio/clips/en_102.mp3",
+    "source": "en",
+    "index": 102,
+    "text": "Nine."
+  },
+  "en:ten.": {
+    "file": "audio/clips/en_103.mp3",
+    "source": "en",
+    "index": 103,
+    "text": "Ten."
+  },
+  "en:eleven.": {
+    "file": "audio/clips/en_104.mp3",
+    "source": "en",
+    "index": 104,
+    "text": "Eleven."
+  },
+  "en:twelve.": {
+    "file": "audio/clips/en_105.mp3",
+    "source": "en",
+    "index": 105,
+    "text": "Twelve."
+  },
+  "en:thirteen.": {
+    "file": "audio/clips/en_106.mp3",
+    "source": "en",
+    "index": 106,
+    "text": "Thirteen."
+  },
+  "en:fourteen.": {
+    "file": "audio/clips/en_107.mp3",
+    "source": "en",
+    "index": 107,
+    "text": "Fourteen."
+  },
+  "en:fifteen.": {
+    "file": "audio/clips/en_108.mp3",
+    "source": "en",
+    "index": 108,
+    "text": "Fifteen."
+  },
+  "en:sixteen.": {
+    "file": "audio/clips/en_109.mp3",
+    "source": "en",
+    "index": 109,
+    "text": "Sixteen."
+  },
+  "en:seventeen.": {
+    "file": "audio/clips/en_110.mp3",
+    "source": "en",
+    "index": 110,
+    "text": "Seventeen."
+  },
+  "en:eighteen.": {
+    "file": "audio/clips/en_111.mp3",
+    "source": "en",
+    "index": 111,
+    "text": "Eighteen."
+  },
+  "en:nineteen.": {
+    "file": "audio/clips/en_112.mp3",
+    "source": "en",
+    "index": 112,
+    "text": "Nineteen."
+  },
+  "en:twenty.": {
+    "file": "audio/clips/en_113.mp3",
+    "source": "en",
+    "index": 113,
+    "text": "Twenty."
+  },
+  "en:how many can you see?": {
+    "file": "audio/clips/en_114.mp3",
+    "source": "en",
+    "index": 114,
+    "text": "How many can you see?"
+  },
+  "en:let's count together!": {
+    "file": "audio/clips/en_115.mp3",
+    "source": "en",
+    "index": 115,
+    "text": "Let's count together!"
+  },
+  "en:blue.": {
+    "file": "audio/clips/en_117.mp3",
+    "source": "en",
+    "index": 117,
+    "text": "Blue."
+  },
+  "en:yellow.": {
+    "file": "audio/clips/en_118.mp3",
+    "source": "en",
+    "index": 118,
+    "text": "Yellow."
+  },
+  "en:green.": {
+    "file": "audio/clips/en_119.mp3",
+    "source": "en",
+    "index": 119,
+    "text": "Green."
+  },
+  "en:orange.": {
+    "file": "audio/clips/en_136.mp3",
+    "source": "en",
+    "index": 136,
+    "text": "Orange."
+  },
+  "en:purple.": {
+    "file": "audio/clips/en_121.mp3",
+    "source": "en",
+    "index": 121,
+    "text": "Purple."
+  },
+  "en:pink.": {
+    "file": "audio/clips/en_122.mp3",
+    "source": "en",
+    "index": 122,
+    "text": "Pink."
+  },
+  "en:black.": {
+    "file": "audio/clips/en_123.mp3",
+    "source": "en",
+    "index": 123,
+    "text": "Black."
+  },
+  "en:white.": {
+    "file": "audio/clips/en_124.mp3",
+    "source": "en",
+    "index": 124,
+    "text": "White."
+  },
+  "en:brown.": {
+    "file": "audio/clips/en_125.mp3",
+    "source": "en",
+    "index": 125,
+    "text": "Brown."
+  },
+  "en:circle.": {
+    "file": "audio/clips/en_126.mp3",
+    "source": "en",
+    "index": 126,
+    "text": "Circle."
+  },
+  "en:square.": {
+    "file": "audio/clips/en_127.mp3",
+    "source": "en",
+    "index": 127,
+    "text": "Square."
+  },
+  "en:triangle.": {
+    "file": "audio/clips/en_128.mp3",
+    "source": "en",
+    "index": 128,
+    "text": "Triangle."
+  },
+  "en:rectangle.": {
+    "file": "audio/clips/en_129.mp3",
+    "source": "en",
+    "index": 129,
+    "text": "Rectangle."
+  },
+  "en:star.": {
+    "file": "audio/clips/en_130.mp3",
+    "source": "en",
+    "index": 130,
+    "text": "Star."
+  },
+  "en:heart.": {
+    "file": "audio/clips/en_131.mp3",
+    "source": "en",
+    "index": 131,
+    "text": "Heart."
+  },
+  "en:find the red circle.": {
+    "file": "audio/clips/en_132.mp3",
+    "source": "en",
+    "index": 132,
+    "text": "Find the red circle."
+  },
+  "en:which shape is this?": {
+    "file": "audio/clips/en_133.mp3",
+    "source": "en",
+    "index": 133,
+    "text": "Which shape is this?"
+  },
+  "en:apple.": {
+    "file": "audio/clips/en_134.mp3",
+    "source": "en",
+    "index": 134,
+    "text": "Apple."
+  },
+  "en:banana.": {
+    "file": "audio/clips/en_135.mp3",
+    "source": "en",
+    "index": 135,
+    "text": "Banana."
+  },
+  "en:milk.": {
+    "file": "audio/clips/en_137.mp3",
+    "source": "en",
+    "index": 137,
+    "text": "Milk."
+  },
+  "en:water.": {
+    "file": "audio/clips/en_138.mp3",
+    "source": "en",
+    "index": 138,
+    "text": "Water."
+  },
+  "en:bread.": {
+    "file": "audio/clips/en_139.mp3",
+    "source": "en",
+    "index": 139,
+    "text": "Bread."
+  },
+  "en:bird.": {
+    "file": "audio/clips/en_142.mp3",
+    "source": "en",
+    "index": 142,
+    "text": "Bird."
+  },
+  "en:fish.": {
+    "file": "audio/clips/en_143.mp3",
+    "source": "en",
+    "index": 143,
+    "text": "Fish."
+  },
+  "en:lion.": {
+    "file": "audio/clips/en_144.mp3",
+    "source": "en",
+    "index": 144,
+    "text": "Lion."
+  },
+  "en:elephant.": {
+    "file": "audio/clips/en_145.mp3",
+    "source": "en",
+    "index": 145,
+    "text": "Elephant."
+  },
+  "en:book.": {
+    "file": "audio/clips/en_146.mp3",
+    "source": "en",
+    "index": 146,
+    "text": "Book."
+  },
+  "en:pencil.": {
+    "file": "audio/clips/en_148.mp3",
+    "source": "en",
+    "index": 148,
+    "text": "Pencil."
+  },
+  "en:bag.": {
+    "file": "audio/clips/en_149.mp3",
+    "source": "en",
+    "index": 149,
+    "text": "Bag."
+  },
+  "en:chair.": {
+    "file": "audio/clips/en_150.mp3",
+    "source": "en",
+    "index": 150,
+    "text": "Chair."
+  },
+  "en:table.": {
+    "file": "audio/clips/en_151.mp3",
+    "source": "en",
+    "index": 151,
+    "text": "Table."
+  },
+  "en:mother.": {
+    "file": "audio/clips/en_152.mp3",
+    "source": "en",
+    "index": 152,
+    "text": "Mother."
+  },
+  "en:father.": {
+    "file": "audio/clips/en_153.mp3",
+    "source": "en",
+    "index": 153,
+    "text": "Father."
+  },
+  "en:sister.": {
+    "file": "audio/clips/en_154.mp3",
+    "source": "en",
+    "index": 154,
+    "text": "Sister."
+  },
+  "en:brother.": {
+    "file": "audio/clips/en_155.mp3",
+    "source": "en",
+    "index": 155,
+    "text": "Brother."
+  },
+  "en:head.": {
+    "file": "audio/clips/en_156.mp3",
+    "source": "en",
+    "index": 156,
+    "text": "Head."
+  },
+  "en:hand.": {
+    "file": "audio/clips/en_157.mp3",
+    "source": "en",
+    "index": 157,
+    "text": "Hand."
+  },
+  "en:eye.": {
+    "file": "audio/clips/en_158.mp3",
+    "source": "en",
+    "index": 158,
+    "text": "Eye."
+  },
+  "en:ear.": {
+    "file": "audio/clips/en_159.mp3",
+    "source": "en",
+    "index": 159,
+    "text": "Ear."
+  },
+  "en:nose.": {
+    "file": "audio/clips/en_160.mp3",
+    "source": "en",
+    "index": 160,
+    "text": "Nose."
+  },
+  "en:mouth.": {
+    "file": "audio/clips/en_161.mp3",
+    "source": "en",
+    "index": 161,
+    "text": "Mouth."
+  },
+  "en:hello!": {
+    "file": "audio/clips/en_162.mp3",
+    "source": "en",
+    "index": 162,
+    "text": "Hello!"
+  },
+  "en:good morning!": {
+    "file": "audio/clips/en_163.mp3",
+    "source": "en",
+    "index": 163,
+    "text": "Good morning!"
+  },
+  "en:goodbye!": {
+    "file": "audio/clips/en_164.mp3",
+    "source": "en",
+    "index": 164,
+    "text": "Goodbye!"
+  },
+  "en:my name is younes.": {
+    "file": "audio/clips/en_165.mp3",
+    "source": "en",
+    "index": 165,
+    "text": "My name is Younes."
+  },
+  "en:i am happy.": {
+    "file": "audio/clips/en_166.mp3",
+    "source": "en",
+    "index": 166,
+    "text": "I am happy."
+  },
+  "en:this is a cat.": {
+    "file": "audio/clips/en_167.mp3",
+    "source": "en",
+    "index": 167,
+    "text": "This is a cat."
+  },
+  "en:i can see a dog.": {
+    "file": "audio/clips/en_168.mp3",
+    "source": "en",
+    "index": 168,
+    "text": "I can see a dog."
+  },
+  "en:it is red.": {
+    "file": "audio/clips/en_169.mp3",
+    "source": "en",
+    "index": 169,
+    "text": "It is red."
+  },
+  "en:i have a book.": {
+    "file": "audio/clips/en_170.mp3",
+    "source": "en",
+    "index": 170,
+    "text": "I have a book."
+  },
+  "en:one, two, three!": {
+    "file": "audio/clips/en_171.mp3",
+    "source": "en",
+    "index": 171,
+    "text": "One, two, three!"
+  },
+  "en:what is this?": {
+    "file": "audio/clips/en_172.mp3",
+    "source": "en",
+    "index": 172,
+    "text": "What is this?"
+  },
+  "en:what colour is it?": {
+    "file": "audio/clips/en_173.mp3",
+    "source": "en",
+    "index": 173,
+    "text": "What colour is it?"
+  },
+  "en:can you find the apple?": {
+    "file": "audio/clips/en_174.mp3",
+    "source": "en",
+    "index": 174,
+    "text": "Can you find the apple?"
+  },
+  "en:excellent, younes! see you next time!": {
+    "file": "audio/clips/en_175.mp3",
+    "source": "en",
+    "index": 175,
+    "text": "Excellent, Younes! See you next time!"
+  }
+}

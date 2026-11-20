@@ -1,0 +1,23 @@
+{
+  "method": "silence + text-length heuristic; NOT verified transcription",
+  "files": {
+    "ar1": {
+      "phrases": 95,
+      "silence_landmarks": 111,
+      "duration_sec": 197.2
+    },
+    "ar2": {
+      "phrases": 75,
+      "silence_landmarks": 79,
+      "duration_sec": 159.1
+    },
+    "en": {
+      "phrases": 175,
+      "silence_landmarks": 183,
+      "duration_sec": 426.2
+    }
+  },
+  "arabic_split_index": 95,
+  "total_clips": 340,
+  "requires_manual_review": true
+}
